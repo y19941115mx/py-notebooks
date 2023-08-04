@@ -14,9 +14,9 @@
 ## 学习环境的搭建
 
 1. 本地 [anaconda](https://www.anaconda.com/download) 安装 使用conda安装jupyter-lab
-2. [git下载](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)  
+2. [git下载](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
 3. [github](https://github.com/) 账号注册
-4. vscode 的 [python支持](https://code.visualstudio.com/docs/python/python-tutorial)
+4. vscode 的 [python支持](https://code.visualstudio.com/docs/python/python-tutorial) 使用vscode调用
 5. 使用命令行启动 jupyter-lab
 
 
