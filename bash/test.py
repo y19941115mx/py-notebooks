@@ -1,1 +1,1 @@
-print("欢迎晴晴一起学习python")
+print("很开心和晴晴一起学习python")
